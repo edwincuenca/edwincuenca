@@ -1,16 +1,28 @@
 ## Hi there 👋
 
+# edwincuenca
+
 <!--
 **edwincuenca/edwincuenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyberpunk Brutalist Developer Portfolio
 
-Here are some ideas to get you started:
+This is a high-performance, dystopian-themed developer portfolio built with React, Tailwind CSS v4, and Vite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Features
+
+- **Terminal Boot Sequence**: System initialization intro.
+- **Brutalist Layout**: Rigid grids and sharp edges.
+- **Cyberpunk Aesthetics**: Neon accents and scanline effects.
+- **Modular Architecture**: Centralized data management for easy updates.
+- **Mobile Responsive**: Fully optimized for all devices.
+
+### Local Development
+
+1. Clone the repository.
+2. Run `npm install`.
+3. Run `npm run dev`.
+4. Open `http://localhost:5173/`.
+
+---
+*Built in the dark.*
