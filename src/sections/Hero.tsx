@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
             <span className="text-cyber-blue">{portfolioData.surname}</span>
           </h1>
           <p className="text-lg md:text-2xl font-mono text-cyber-white/60 mb-10 max-w-xl">
-            SYSTEMS ARCHITECT / SOFTWARE DEV / Security Engineer aka H4CK3R.<br />
+            SYSTEMS ARCHITECT / SOFTWARE DEV / OPSEC         / H4CK3R.<br />
             <span className="text-cyber-white uppercase font-bold italic">{portfolioData.tagline}</span>
           </p>
           <div className="flex flex-wrap gap-6">
