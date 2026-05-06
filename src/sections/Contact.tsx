@@ -15,7 +15,7 @@ export const Contact: React.FC = () => {
             </a>
             <div className="flex gap-6">
               {['Github', 'LinkedIn', 'Twitter'].map(social => (
-                <a key={social} href="#" className={`text-xs border-2 border-cyber-white px-4 py-2 uppercase font-bold transition-all ${
+                <a key={social} href="https://www.edwincuenca.dev/" target="_blank" rel="noopener noreferrer" className={`text-xs border-2 border-cyber-white px-4 py-2 uppercase font-bold transition-all ${
                   social === 'Github' ? 'hover:bg-cyber-blue hover:border-cyber-blue' : 
                   social === 'LinkedIn' ? 'hover:bg-cyber-magenta hover:border-cyber-magenta' : 
                   'hover:bg-cyber-green hover:border-cyber-green'

@@ -19,31 +19,31 @@ export const portfolioData: PortfolioData = {
       title: "GRID_WATCHER_V1",
       description: "A decentralized monitoring system for global mesh networks. Real-time packet inspection and neural-link stability tracking.",
       tags: ['React', 'WebSockets', 'Rust'],
-      link: "#"
+      link: "https://www.edwincuenca.dev/"
     },
     {
       title: "NEURAL_OVERRIDE",
       description: "Biometric authentication layer using behavioral patterns and retina-scan simulation. Secure, brutal, uncompromising.",
       tags: ['TypeScript', 'Auth0', 'PostgreSQL'],
-      link: "#"
+      link: "https://www.edwincuenca.dev/"
     },
     {
       title: "DARK_NODE_CLI",
       description: "A high-performance terminal tool for managing distributed cloud nodes via encrypted channels.",
       tags: ['Node.js', 'Go', 'Docker'],
-      link: "#"
+      link: "https://www.edwincuenca.dev/"
     },
     {
       title: "SILENT_PROTOCOL",
       description: "Zero-knowledge encryption layer for peer-to-peer communication across untrusted subnets.",
       tags: ['Solidity', 'Cryptography', 'Next.js'],
-      link: "#"
+      link: "https://www.edwincuenca.dev/"
     },
     {
       title: "SYSTEM_DIAGNOSTIC",
       description: "Automated audit tool for identifying vulnerabilities in complex microservice architectures.",
       tags: ['Python', 'K8s', 'Grafana'],
-      link: "#"
+      link: "https://www.edwincuenca.dev/"
     }
   ],
   skills: {
