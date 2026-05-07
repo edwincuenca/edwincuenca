@@ -11,8 +11,8 @@ export const portfolioData: PortfolioData = {
   stats: [
     { label: "EST_YEAR", value: "1998" },
     { label: "PROTOCOLS_DEPLOYED", value: "42+", color: "magenta" },
-    { label: "SYSTEM_STABILITY", value: "99%", color: "blue" },
-    { label: "LOCATION", value: "NODE_01" }
+    { label: "SYSTEM_STABILITY", value: "99.98%", color: "blue" },
+    { label: "LOCATION", value: "#ecuador" }
   ],
   projects: [
     {
